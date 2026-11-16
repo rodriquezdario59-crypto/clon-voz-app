@@ -1,0 +1,20 @@
+[
+  {
+    "id": "21m00Tcm4TlvDq8ikWAM",
+    "name": "Voz masculina estándar",
+    "language": "en",
+    "description": "Voz masculina en inglés estadounidense por defecto de ElevenLabs."
+  },
+  {
+    "id": "ErXwobaYiN019PkySvjV",
+    "name": "Voz femenina estándar",
+    "language": "en",
+    "description": "Voz femenina en inglés estadounidense por defecto de ElevenLabs."
+  },
+  {
+    "id": "es-ES-Jose",
+    "name": "Voz masculina española",
+    "language": "es",
+    "description": "Voz masculina en español (España)."
+  }
+]
